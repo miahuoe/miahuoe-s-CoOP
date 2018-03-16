@@ -1,6 +1,7 @@
 /*
- * An obfuscated "Fizz Buzz" program.
+ * "Fizz Buzz" program.
  * Starts at 0, stops at N. Preferably N >= 0.
+ * Outputs only lowercase letters.
  */
 
 #define N 100
